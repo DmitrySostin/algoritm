@@ -12,5 +12,8 @@ dmitry.sostin@yandex.ru
 ```
 ├── binary_searth.py             # Бинарный поиск по массиву
 ├── buble_and_selected_sorted    # алгоритмы сортировки пузырьковый и выбором
+├── hash.py                      # Хеш
 ├── liner_searth.py              # Линейный поиск по массиву
+├── queues_and_merge_sort.py     # Очереди и сортировка слиянием
+├── quick_sort.py                # Быстрая сортировка
 └── README.md                    # Этот файл
