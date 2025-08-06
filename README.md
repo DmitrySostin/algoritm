@@ -16,4 +16,5 @@ dmitry.sostin@yandex.ru
 ├── liner_searth.py              # Линейный поиск по массиву
 ├── queues_and_merge_sort.py     # Очереди и сортировка слиянием
 ├── quick_sort.py                # Быстрая сортировка
+├── trees.py                     # Деревья
 └── README.md                    # Этот файл
