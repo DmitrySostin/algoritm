@@ -12,6 +12,7 @@ dmitry.sostin@yandex.ru
 ```
 ├── binary_searth.py             # Бинарный поиск по массиву
 ├── buble_and_selected_sorted.py # Алгоритмы сортировки пузырьковый и выбором
+├── dinamic_programming.py       # Динамическое программирование
 ├── graph.py                     # Графы
 ├── hash.py                      # Хеш
 ├── liner_searth.py              # Линейный поиск по массиву
