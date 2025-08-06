@@ -11,7 +11,8 @@ dmitry.sostin@yandex.ru
 ## 📂 Структура проекта 
 ```
 ├── binary_searth.py             # Бинарный поиск по массиву
-├── buble_and_selected_sorted    # алгоритмы сортировки пузырьковый и выбором
+├── buble_and_selected_sorted.py # Алгоритмы сортировки пузырьковый и выбором
+├── graph.py                     # Графы
 ├── hash.py                      # Хеш
 ├── liner_searth.py              # Линейный поиск по массиву
 ├── queues_and_merge_sort.py     # Очереди и сортировка слиянием
